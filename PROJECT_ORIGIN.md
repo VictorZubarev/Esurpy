@@ -1,228 +1,233 @@
-Provia — Project Origin
+# Provia — Project Origin
 
-Project name: Provia
-Project start date: October 2, 2026
-Project status: Initial concept
-Founder / Creator: [VictorZubarev]
+## Project Information
 
-⸻
+**Project:** Provia  
+**Started:** October 2, 2026  
+**Status:** Early development  
+**Repository:** Public GitHub repository
 
-1. Original Concept
+---
 
-Provia is a free global online platform designed to help people build, track, measure, organize, and document their professional achievements and real-world impact.
+# 1. Why Provia Exists
 
-The core idea is to create a long-term evidence-based professional record instead of allowing a person’s achievements to remain scattered across resumes, certificates, projects, publications, repositories, websites, and other sources.
+Professional achievements are often spread across many different places.
 
-Provia is intended to help users turn their work and achievements into structured, verifiable evidence that can be used for professional and personal development.
+A project may be on GitHub.
 
-⸻
+A certificate may be stored in a folder.
 
-2. The Problem
+A publication may exist on another website.
 
-People accumulate valuable professional evidence over many years, but it is often scattered across different platforms and documents.
+A professional result may only exist in someone's memory.
 
-Examples include:
+Over time, this makes it difficult to maintain a complete and reliable record of professional growth.
 
-* projects;
-* employment and internships;
-* education;
-* research;
-* publications;
-* open-source contributions;
-* awards;
-* certifications;
-* competitions;
-* leadership activities;
-* volunteer work;
-* products and businesses;
-* users and measurable results;
-* media coverage;
-* professional recognition.
+**Provia was created to solve this problem.**
 
-When a person later needs to demonstrate their professional development, achievements, expertise, or impact, reconstructing this history can be difficult.
+The project aims to provide a structured way to record professional activities, results, impact, and supporting evidence over time.
 
-Provia aims to make this process continuous rather than retrospective.
+---
 
-⸻
+# 2. The Core Idea
 
-3. The Core Principle
+The core model of Provia is:
 
-Do the work → measure the result → preserve the evidence → build your professional impact history.
+> **Activity → Result → Impact → Evidence**
 
-The platform is designed around authentic evidence.
+The purpose of this model is to connect what a person does with what actually happens as a result of their work.
 
-Provia should help users document things that actually happened rather than manufacture achievements, users, statistics, recognition, or other evidence.
+Provia is therefore not intended to be only a CV builder.
 
-⸻
+It is intended to become a **long-term professional evidence record**.
 
-4. Intended Users
+---
 
-Provia is intended for a broad international audience, including:
+# 3. Project Vision
 
-* students;
-* graduates;
-* developers;
-* researchers;
-* entrepreneurs;
-* freelancers;
-* professionals;
-* creators;
-* founders;
-* academics;
-* specialists building international careers.
+The long-term vision of Provia is to make it easier for people to:
 
-⸻
+- Document their professional work
+- Track achievements over time
+- Measure real-world impact
+- Preserve supporting evidence
+- Build professional portfolios
+- Present their experience clearly
+- Prepare organized professional records for future opportunities
 
-5. Planned Capabilities
+The platform is intended for a global audience.
 
-The initial concept includes:
+---
 
-Professional Profile
+# 4. Target Users
 
-A structured profile containing education, skills, projects, achievements, publications, experience, and other professional activities.
+Provia is designed for people at different stages of their professional journey.
 
-Impact Tracking
+Potential users include:
 
-A system for recording the relationship between:
+- Students
+- Graduates
+- Developers
+- Researchers
+- Entrepreneurs
+- Freelancers
+- Creators
+- Professionals
+- Founders
+- Academics
 
-Activity → Result → Impact → Evidence
+A user should be able to start documenting their work early and continue building their record for years.
 
-Achievement Timeline
+---
 
-A chronological history of professional development and achievements.
+# 5. Main Applications
 
-Evidence Management
+Provia may be used for:
 
-A way to organize supporting evidence such as:
+## Career Development
 
-* GitHub repositories and commits;
-* publications;
-* certificates;
-* project documentation;
-* statistics;
-* links;
-* screenshots;
-* awards;
-* user or organizational feedback;
-* other verifiable sources.
+Tracking projects, skills, achievements, results, and professional growth.
 
-Portfolio Builder
+## Education & Research
 
-A public professional portfolio generated from the user’s verified information.
+Documenting academic projects, publications, research, awards, and impact.
 
-Impact Report
+## Entrepreneurship
 
-A structured report summarizing a person’s projects, achievements, measurable results, impact, and supporting evidence.
+Recording products, users, growth, business results, and projects.
 
-Research & Analytics
+## Professional Recognition
 
-Potential future tools for measuring and presenting professional impact using transparent methodologies.
+Organizing awards, publications, media coverage, open-source contributions, and other achievements.
 
-⸻
+## Immigration
 
-6. Global Scope
+Organizing genuine professional evidence that may be relevant to immigration applications and other international opportunities.
 
-Provia is intended to serve users internationally.
+Provia does not provide legal advice and does not guarantee immigration eligibility or approval.
 
-Initial immigration-related research and features may focus on major destinations including:
+---
 
-* 🇺🇸 United States
-* 🇨🇦 Canada
-* 🇬🇧 United Kingdom
-* 🇦🇺 Australia
-* 🇳🇿 New Zealand
-* 🇩🇪 Germany
-* 🇫🇷 France
-* 🇳🇱 Netherlands
-* 🇮🇪 Ireland
-* 🇸🇬 Singapore
-* 🇯🇵 Japan
-* 🇦🇪 United Arab Emirates
+# 6. Evidence Principle
 
-Additional countries and pathways may be added over time.
+A fundamental principle of Provia is:
 
-Immigration-related functionality is intended to help users organize and document genuine evidence. Provia is not intended to provide legal advice or guarantee eligibility or approval for any immigration program.
+> **Real work should be supported by real evidence.**
 
-⸻
+The project should not encourage users to fabricate or exaggerate achievements.
 
-7. Potential Applications
+This includes:
 
-The professional evidence collected through Provia may be useful for different purposes, including:
+- Fake statistics
+- Fake users
+- Fake reviews
+- Fake awards
+- Fake publications
+- Fake recognition
+- Misrepresentation of professional work
 
-* career development;
-* job applications;
-* professional portfolios;
-* academic applications;
-* research careers;
-* entrepreneurship;
-* professional recognition;
-* grants and opportunities;
-* international career development;
-* immigration applications, where relevant.
+Whenever possible, information should be connected to authentic and verifiable sources.
 
-The exact requirements for any immigration pathway depend on the applicable country, program, regulations, and individual circumstances.
+---
 
-⸻
+# 7. Initial Countries of Interest
 
-8. Long-Term Vision
+The initial international focus includes:
 
-The long-term vision is to create a global infrastructure for documenting professional growth and impact over time.
+- United States
+- Canada
+- United Kingdom
+- Australia
+- New Zealand
+- Germany
+- France
+- Netherlands
+- Ireland
+- Singapore
+- Japan
+- United Arab Emirates
 
-A person should be able to start using Provia early in their education or career and continuously build a reliable record of their work.
+Additional countries may be researched and added later.
 
-The goal is not simply to create another resume builder.
+---
 
-The goal is to create a living professional evidence record.
+# 8. Planned Product Areas
 
-⸻
+The initial product concept includes:
 
-9. Project Transparency
+- Professional Profile
+- Achievement Tracker
+- Professional Timeline
+- Impact Map
+- Evidence Vault
+- Portfolio Builder
+- Impact Reports
+- Analytics
+- Public Professional Profiles
+- Research Tools
+- Country-Specific Evidence Organization
 
-From the beginning of the project, development history will be documented.
+These are planned capabilities and do not represent features that necessarily exist in the initial version.
 
-Major decisions, changes, experiments, releases, research, and results should be preserved through:
+---
 
-* Git commits;
-* version history;
-* dated project documents;
-* research notes;
-* release notes;
-* public documentation;
-* project metrics;
-* archived versions;
-* other appropriate records.
+# 9. Development Approach
 
-The project will distinguish between:
+Provia is intended to be developed publicly.
 
-planned features, implemented features, measured results, and future ideas.
+Important stages of development will be documented through:
 
-No future result should be presented as an existing result.
+- GitHub commits
+- Project documents
+- Research notes
+- Product decisions
+- Design iterations
+- Code changes
+- Releases
+- Experiments
+- User feedback
+- Measured results
 
-⸻
+The purpose is to preserve a clear history of how the project develops.
 
-10. Initial Status — October 2, 2026
+---
 
-At the time of this document’s creation:
+# 10. Initial Project Status
 
-* Provia is at the initial concept stage.
-* The project has no established user base.
-* No user numbers are being claimed.
-* No impact statistics are being claimed.
-* No external recognition is being claimed.
-* No publications or partnerships are being claimed unless separately documented.
-* The product has not yet established measurable real-world impact.
+**Project start date:** October 2, 2026
 
-This document represents the starting point from which the future development of Provia will be documented.
+At the beginning of the project:
 
-⸻
+- No user base is claimed
+- No partnerships are claimed
+- No awards are claimed
+- No media recognition is claimed
+- No impact statistics are claimed
 
-11. Initial Goal
+Future achievements and results will be documented as they actually occur.
 
-The initial goal is to develop Provia into a useful, free, accessible online product and gradually validate the concept through real users, measurable results, transparent development, and authentic evidence.
+---
 
-Project start: October 2, 2026.
+# 11. Project Authorship
 
+Provia is being developed and documented from its initial stage.
 
+The project repository, commit history, dated documents, development records, and future releases are intended to preserve evidence of the project's evolution and authorship.
 
+Important project decisions should be recorded when they are made rather than reconstructed later.
 
+---
 
+# 12. Long-Term Goal
+
+The long-term goal is to build a global platform where people can continuously document:
+
+**What they did → What happened → What impact it had → How it can be verified.**
+
+Provia starts as a simple idea and will develop through real implementation, testing, feedback, and measurable results.
+
+---
+
+**Project:** Provia  
+**Start date:** October 2, 2026  
+**Status:** Early development

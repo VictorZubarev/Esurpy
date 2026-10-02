@@ -1,38 +1,82 @@
-Viktor Zubarev
-Viktor Zubarev
 # Provia
 
-## Build your work. Measure your impact. Keep the evidence.
+## Your work deserves more than a CV.
 
-**Provia** is a free global platform for people who want to build a strong professional record based on real work, results, and evidence.
+**Provia is a free global platform that helps you turn your work, achievements, results, and impact into organized, verifiable evidence.**
 
-Your achievements are often scattered across GitHub, certificates, documents, websites, publications, portfolios, and different platforms.
+Build your professional record as you go — not years later when you need it.
 
-**Provia brings them together in one place.**
+**Track your work. Measure your impact. Keep the evidence.**
+
+---
+
+# Built for
+
+**Students · Developers · Researchers · Entrepreneurs · Freelancers · Professionals · Creators · Founders**
+
+# Built for more than one goal
+
+**Career · Education · Research · Entrepreneurship · Professional Recognition · Immigration**
+
+# Built for a global future
+
+🇺🇸 United States · 🇨🇦 Canada · 🇬🇧 United Kingdom · 🇦🇺 Australia · 🇳🇿 New Zealand · 🇩🇪 Germany · 🇫🇷 France · 🇳🇱 Netherlands · 🇮🇪 Ireland · 🇸🇬 Singapore · 🇯🇵 Japan · 🇦🇪 United Arab Emirates
 
 ---
 
 # What is Provia?
 
-Provia helps people **track, organize, measure, and document their professional growth** over time.
+Professional achievements are often scattered across GitHub, certificates, documents, websites, publications, portfolios, and different platforms.
 
-The idea is simple:
+**Provia brings them together in one place.**
 
-**Activity → Result → Impact → Evidence**
+The platform is designed to help people **track, organize, measure, and document their professional growth** over time.
 
 Instead of trying to remember everything you have done when you need a CV, portfolio, application, or professional profile, you can document your work as it happens.
 
-Provia is designed for:
+---
 
-- Students
-- Developers
-- Researchers
-- Entrepreneurs
-- Freelancers
-- Creators
-- Professionals
-- Founders
-- Anyone building an international career
+# The Core Idea
+
+Provia is built around four connected elements:
+
+**Activity → Result → Impact → Evidence**
+
+## Activity
+
+**What did you do?**
+
+## Result
+
+**What happened because of your work?**
+
+## Impact
+
+**Who or what did it affect?**
+
+## Evidence
+
+**How can the result be verified?**
+
+### Example
+
+**Activity**
+
+Created an open-source project.
+
+**Result**
+
+The project was used by 500 people.
+
+**Impact**
+
+It helped users solve a specific problem.
+
+**Evidence**
+
+GitHub history, documentation, analytics, and other authentic records.
+
+The goal is to make professional impact easier to **understand, measure, and verify**.
 
 ---
 
@@ -51,7 +95,7 @@ Build a professional record based on real projects and achievements.
 
 ## Education & Research
 
-Keep your academic and research work organized.
+Keep academic and research work organized.
 
 - Research projects
 - Publications
@@ -88,54 +132,22 @@ Professional evidence can also be important when preparing applications for inte
 
 Provia is intended to help users organize genuine evidence that may be relevant to applications in countries such as:
 
-| Country | Country | Country |
-|---|---|---|
-| 🇺🇸 United States | 🇨🇦 Canada | 🇬🇧 United Kingdom |
-| 🇦🇺 Australia | 🇳🇿 New Zealand | 🇩🇪 Germany |
-| 🇫🇷 France | 🇳🇱 Netherlands | 🇮🇪 Ireland |
-| 🇸🇬 Singapore | 🇯🇵 Japan | 🇦🇪 UAE |
+- 🇺🇸 United States
+- 🇨🇦 Canada
+- 🇬🇧 United Kingdom
+- 🇦🇺 Australia
+- 🇳🇿 New Zealand
+- 🇩🇪 Germany
+- 🇫🇷 France
+- 🇳🇱 Netherlands
+- 🇮🇪 Ireland
+- 🇸🇬 Singapore
+- 🇯🇵 Japan
+- 🇦🇪 United Arab Emirates
 
 More countries may be added over time.
 
 > **Important:** Provia does not provide legal advice and does not guarantee immigration eligibility or approval.
-
----
-
-# How Provia works
-
-Every achievement can be organized around four connected elements:
-
-## 1. Activity
-
-**What did you do?**
-
-## 2. Result
-
-**What happened because of your work?**
-
-## 3. Impact
-
-**Who or what did it affect?**
-
-## 4. Evidence
-
-**How can the result be verified?**
-
-For example:
-
-**Activity**  
-Created an open-source project.
-
-**Result**  
-The project was used by 500 people.
-
-**Impact**  
-It helped users solve a specific problem.
-
-**Evidence**  
-GitHub history, documentation, analytics, and other authentic records.
-
-The goal is to make professional impact easier to **understand, measure, and verify**.
 
 ---
 
@@ -148,6 +160,10 @@ A structured profile that represents your work, experience, achievements, and im
 ## Achievement Tracker
 
 Record important projects, milestones, results, and accomplishments over time.
+
+## Professional Timeline
+
+See how your work and achievements develop throughout your career.
 
 ## Impact Map
 
@@ -197,6 +213,10 @@ The platform should never encourage users to:
 
 Whenever possible, achievements should be connected to **authentic and verifiable sources**.
 
+The goal is simple:
+
+> **If it didn't happen, don't present it as if it did.**
+
 ---
 
 # Building Provia in Public
@@ -225,9 +245,39 @@ Git history, dated documents, releases, and other records will preserve the evol
 
 Provia is currently in the early development stage.
 
-At this point, there are **no claimed users, partnerships, awards, media coverage, or impact statistics**.
+At this point:
+
+- No user base is claimed
+- No partnerships are claimed
+- No awards are claimed
+- No media recognition is claimed
+- No impact statistics are claimed
 
 Future results will be documented as they actually happen.
+
+---
+
+# Development Principles
+
+## Transparency
+
+Important project decisions and changes should be documented as they happen.
+
+## Evidence
+
+Claims should be supported by authentic sources whenever possible.
+
+## Privacy
+
+Users should have control over what information they make public.
+
+## Accessibility
+
+The core platform is intended to remain free and accessible to people around the world.
+
+## Continuous Development
+
+Provia will evolve through research, implementation, testing, feedback, and real-world use.
 
 ---
 
@@ -247,10 +297,12 @@ Measure what changes.
 
 Preserve the evidence.
 
-And over time, build a professional record that represents what you have actually achieved.
+Over time, build a professional record that represents what you have actually achieved.
 
 ---
 
 # Provia
 
 **Build your work. Measure your impact. Keep the evidence.**
+
+**Started October 2, 2026**

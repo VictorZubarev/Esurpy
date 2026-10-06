@@ -9,12 +9,20 @@
 <body>
 
     <header class="navbar">
-        <a href="index.html" class="logo">Esurpy</a>
+        <a href="#top" class="logo">Esurpy</a>
+
+        <nav class="nav-links">
+            <a href="#how-it-works">How it works</a>
+            <a href="#features">Features</a>
+            <a href="#countries">Countries</a>
+        </nav>
 
         <a href="signup.html" class="nav-button">Get Started</a>
     </header>
 
-    <main>
+    <main id="top">
+
+        <!-- HERO -->
 
         <section class="hero">
             <div class="hero-overlay"></div>
@@ -29,13 +37,22 @@
                     results, and impact into organized, verifiable evidence.
                 </p>
 
-                <a href="signup.html" class="primary-button">
-                    Get Started
-                </a>
+                <div class="hero-actions">
+                    <a href="signup.html" class="primary-button">
+                        Get Started
+                    </a>
+
+                    <a href="#how-it-works" class="secondary-button">
+                        See How It Works
+                    </a>
+                </div>
             </div>
         </section>
 
-        <section class="intro">
+        <!-- INTRO -->
+
+        <section class="intro" id="how-it-works">
+
             <p class="section-label">THE CORE IDEA</p>
 
             <h2>Build your professional record as you go.</h2>
@@ -73,14 +90,76 @@
                 </div>
 
             </div>
+
         </section>
 
+        <!-- FEATURES -->
+
+        <section class="features" id="features">
+
+            <div class="features-heading">
+                <p class="section-label">WHAT YOU BUILD</p>
+
+                <h2>
+                    One place for everything
+                    that proves your work matters.
+                </h2>
+            </div>
+
+            <div class="feature-grid">
+
+                <article class="feature-card">
+                    <span>01</span>
+                    <h3>Professional Profile</h3>
+                    <p>
+                        Keep your professional identity, experience,
+                        achievements, and goals in one structured place.
+                    </p>
+                </article>
+
+                <article class="feature-card">
+                    <span>02</span>
+                    <h3>Achievement Tracker</h3>
+                    <p>
+                        Record projects, milestones, awards, publications,
+                        launches, and other meaningful achievements.
+                    </p>
+                </article>
+
+                <article class="feature-card">
+                    <span>03</span>
+                    <h3>Evidence Vault</h3>
+                    <p>
+                        Organize documents, links, screenshots, publications, certificates, and other supporting evidence.
+                    </p>
+                </article>
+
+                <article class="feature-card">
+                    <span>04</span>
+                    <h3>Impact Reports</h3>
+                    <p>
+                        Turn your accumulated work into clear professional
+                        reports that show results and measurable impact.
+                    </p>
+                </article>
+
+            </div>
+
+        </section>
+
+        <!-- AUDIENCE -->
+
         <section class="audience">
+
             <div>
                 <p class="section-label">BUILT FOR</p>
 
-                <h2>One professional record.
-Many possible futures.</h2>
+                <h2>
+                    One professional record.
+                    
+
+                    Many possible futures.
+                </h2>
             </div>
 
             <div class="audience-grid">
@@ -93,13 +172,101 @@ Many possible futures.</h2>
                 <div>Creators</div>
                 <div>Founders</div>
             </div>
+
         </section>
+
+        <!-- COUNTRIES -->
+
+        <section class="countries" id="countries">
+
+            <p class="section-label">BUILT FOR A GLOBAL CAREER</p>
+
+            <h2>
+                Your professional record
+                shouldn't depend on where you live.
+            </h2>
+
+            <p class="section-text">
+                Esurpy is designed for professionals building careers,
+                businesses, research, and opportunities across borders.
+            </p>
+
+            <div class="country-grid">
+
+                <div class="country-card">
+                    <span class="flag">🇺🇸</span>
+                    <span>United States</span>
+                </div>
+
+                <div class="country-card">
+                    <span class="flag">🇨🇦</span>
+                    <span>Canada</span>
+                </div>
+
+                <div class="country-card">
+                    <span class="flag">🇬🇧</span>
+                    <span>United Kingdom</span>
+                </div>
+
+                <div class="country-card">
+                    <span class="flag">🇦🇺</span>
+                    <span>Australia</span>
+                </div>
+
+                <div class="country-card">
+                    <span class="flag">🇳🇿</span>
+                    <span>New Zealand</span>
+                </div>
+
+                <div class="country-card">
+                    <span class="flag">🇩🇪</span>
+                    <span>Germany</span>
+                </div>
+
+                <div class="country-card">
+                    <span class="flag">🇫🇷</span>
+                    <span>France</span>
+                </div>
+
+                <div class="country-card">
+                    <span class="flag">🇳🇱</span>
+                    <span>Netherlands</span>
+                </div>
+
+                <div class="country-card">
+                    <span class="flag">🇮🇪</span>
+                    <span>Ireland</span>
+                </div>
+
+                <div class="country-card">
+                    <span class="flag">🇸🇬</span>
+                    <span>Singapore</span>
+                </div>
+
+                <div class="country-card">
+                    <span class="flag">🇯🇵</span>
+                    <span>Japan</span>
+                </div>
+
+                <div class="country-card">
+                    <span class="flag">🇦🇪</span>
+                    <span>United Arab Emirates</span>
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- FINAL CTA -->
 
         <section class="final-cta">
 
             <p class="section-label">START TODAY</p>
 
-            <h2>Don't wait until you need to prove what you've done.</h2>
+            <h2>
+                Don't wait until you need to prove
+                what you've done.
+            </h2>
 
             <p>
                 Start documenting your work now.
@@ -116,7 +283,10 @@ Many possible futures.</h2>
 
     <footer>
         <strong>Esurpy</strong>
-        <span>Build your work. Measure your impact. Keep the evidence.</span>
+
+        <span>
+            Build your work. Measure your impact. Keep the evidence.
+        </span>
     </footer>
 
 </body>

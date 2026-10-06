@@ -38,13 +38,37 @@ a {
 
 .logo {
     color: #ffffff;
+
     font-size: 25px;
     font-weight: 700;
     letter-spacing: -0.5px;
 }
 
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 34px;
+
+    margin-left: auto;
+    margin-right: 35px;
+}
+
+.nav-links a {
+    color: #e5e7eb;
+
+    font-size: 14px;
+    font-weight: 500;
+
+    transition: color 0.2s ease;
+}
+
+.nav-links a:hover {
+    color: #ffffff;
+}
+
 .nav-button {
     display: inline-block;
+
     padding: 11px 20px;
 
     background: #111827;
@@ -55,7 +79,9 @@ a {
     font-size: 14px;
     font-weight: 600;
 
-    transition: transform 0.2s ease, background 0.2s ease;
+    transition:
+        transform 0.2s ease,
+        background 0.2s ease;
 }
 
 .nav-button:hover {
@@ -89,9 +115,9 @@ a {
     background:
         linear-gradient(
             90deg,
-            rgba(0, 0, 0, 0.78) 0%,
-            rgba(0, 0, 0, 0.58) 45%,
-            rgba(0, 0, 0, 0.28) 100%
+            rgba(0, 0, 0, 0.82) 0%,
+            rgba(0, 0, 0, 0.66) 45%,
+            rgba(0, 0, 0, 0.38) 100%
         );
 }
 
@@ -99,7 +125,7 @@ a {
     position: relative;
     z-index: 2;
 
-    max-width: 760px;
+    max-width: 780px;
 
     color: #ffffff;
 }
@@ -139,15 +165,19 @@ a {
     margin-bottom: 38px;
 }
 
-/* BUTTON */
+.hero-actions {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
 
-.primary-button {
+/* BUTTONS */
+
+.primary-button,
+.secondary-button {
     display: inline-block;
 
     padding: 15px 25px;
-
-    background: #111827;
-    color: #ffffff;
 
     border-radius: 8px;
 
@@ -160,11 +190,28 @@ a {
         box-shadow 0.2s ease;
 }
 
+.primary-button {
+    background: #111827;
+    color: #ffffff;
+}
+
 .primary-button:hover {
     background: #000000;
     transform: translateY(-2px);
 
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.secondary-button {
+    background: rgba(255, 255, 255, 0.12);
+    color: #ffffff;
+
+    border: 1px solid rgba(255, 255, 255, 0.35);
+}
+
+.secondary-button:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
 }
 
 /* INTRO */
@@ -182,6 +229,8 @@ a {
 }
 
 .intro h2,
+.features h2,
+.countries h2,
 .audience h2,
 .final-cta h2 {
     max-width: 800px;
@@ -245,6 +294,66 @@ a {
     color: #6b7280;
 }
 
+/* FEATURES */
+
+.features {
+    padding: 120px 6%;
+
+    background: #ffffff;
+}
+
+.features-heading {
+    max-width: 1200px;
+
+    margin: 0 auto 70px;
+}
+
+.feature-grid {
+    max-width: 1200px;
+
+    margin: 0 auto;
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+    border-top: 1px solid #dfe3e8;
+    border-left: 1px solid #dfe3e8;
+}
+
+.feature-card {
+    min-height: 270px;
+
+    padding: 35px;
+
+    border-right: 1px solid #dfe3e8;
+    border-bottom: 1px solid #dfe3e8;
+}
+
+.feature-card span {
+    display: block;
+
+    color: #9ca3af;
+
+    font-size: 13px;
+    font-weight: 700;
+
+    margin-bottom: 45px;
+}
+
+.feature-card h3 {
+    font-size: 26px;
+
+    margin-bottom: 12px;
+}
+
+.feature-card p {
+    max-width: 450px;
+
+    color: #6b7280;
+
+    font-size: 16px;
+}
+
 /* AUDIENCE */
 
 .audience {
@@ -281,6 +390,53 @@ a {
     color: #e5e7eb;
 
     font-size: 18px;
+}
+
+/* COUNTRIES */
+
+.countries {
+    max-width: 1200px;
+
+    margin: 0 auto;
+
+    padding: 130px 30px;
+}
+
+.countries h2 {
+    max-width: 850px;
+}
+
+.country-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+    margin-top: 65px;
+
+    border-top: 1px solid #dfe3e8;
+    border-left: 1px solid #dfe3e8;
+}
+
+.country-card {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+
+    min-height: 95px;
+
+    padding: 20px;
+
+    border-right: 1px solid #dfe3e8;
+    border-bottom: 1px solid #dfe3e8;
+
+    background: #ffffff;
+
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.flag {
+    font-size: 28px;
+    line-height: 1;
 }
 
 /* FINAL CTA */
@@ -334,42 +490,30 @@ footer strong {
 
 /* MOBILE */
 
-max-width: 800px {
+max-width: 900px {
 
-    .navbar {
-        padding: 20px;
+    .nav-links {
+        display: none;
     }
 
     .hero {
-        min-height: 700px;
+        min-height: 720px;
 
         padding: 130px 25px 80px;
 
         background-position: 60% center;
     }
 
-    .hero h1 {
-        letter-spacing: -2px;
-    }
-
-    .hero-text {
-        font-size: 18px;
-    }
-
-    .intro {
-        padding: 90px 25px;
-    }
-
     .process {
         grid-template-columns: 1fr 1fr;
     }
 
-    .process-card {
-        border-bottom: 1px solid #dfe3e8;
+    .feature-grid {
+        grid-template-columns: 1fr;
     }
 
-    .process-card:nth-child(3) {
-        border-left: 1px solid #dfe3e8;
+    .country-grid {
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .audience {
@@ -378,6 +522,63 @@ max-width: 800px {
         gap: 50px;
 
         padding: 90px 25px;
+    }
+}
+
+max-width: 600px {
+
+    .navbar {
+        padding: 20px;
+    }
+
+    .nav-button {
+        padding: 9px 15px;
+
+        font-size: 13px;
+    }
+
+    .hero {
+        min-height: 680px;
+    }
+
+    .hero h1 {
+        font-size: 46px;
+        letter-spacing: -2px;
+    }
+
+    .hero-text {
+        font-size: 18px;
+    }
+
+    .hero-actions {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .intro,
+    .countries {
+        padding: 90px 25px;
+    }
+
+    .process {
+        grid-template-columns: 1fr;
+    }
+
+    .process-card,
+    .process-card:first-child {
+        border-left: 1px solid #dfe3e8;
+    }
+
+    .feature-card {
+        min-height: auto;
+    }
+
+    .country-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .audience-grid {
+        grid-template-columns: 1fr;
     }
 
     .final-cta {
@@ -391,35 +592,4 @@ max-width: 800px {
         padding: 30px 25px;
     }
 }
-
-max-width: 500px {
-
-    .nav-button {
-        padding: 9px 15px;
-        font-size: 13px;
-    }
-
-    .hero {
-        min-height: 680px;
-    }
-
-    .hero h1 {
-        font-size: 46px;
-    }
-
-    .process {
-        grid-template-columns: 1fr;
-    }
-
-    .process-card,
-    .process-card:first-child,
-    .process-card:nth-child(3) {
-        border-left: 1px solid #dfe3e8;
-    }
-
-    .audience-grid {
-        grid-template-columns: 1fr;
-    }
-}
-
 

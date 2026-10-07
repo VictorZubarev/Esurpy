@@ -385,3 +385,19 @@ max-width: 520px {
 }
 
 
+
+.country {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.country .flag {
+    width: 28px;
+    height: 19px;
+    object-fit: cover;
+    flex: 0 0 28px;
+    display: block;
+    border-radius: 2px;
+}
+
